@@ -169,7 +169,7 @@ Execute `StudentGradeCalculator.java`.
 
 **Srinithi D**
 
-**B.E. Computer Science and Business Systems (CSBS)**
+Electronics and Communication Engineering**
 
 ---
 
