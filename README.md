@@ -169,7 +169,7 @@ Execute `StudentGradeCalculator.java`.
 
 **Srinithi D**
 
-Electronics and Communication Engineering**
+**Electronics and Communication Engineering**
 
 ---
 
